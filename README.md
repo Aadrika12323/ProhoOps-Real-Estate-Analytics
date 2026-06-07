@@ -1,4 +1,6 @@
 # ProhoOps-Real-Estate-Analytics
+<img width="1376" height="654" alt="Screenshot 2026-06-08 012438" src="https://github.com/user-attachments/assets/906cfa90-2dfe-40a7-a198-bf402e9d2dfb" />
+<img width="1375" height="650" alt="Screenshot 2026-06-08 012515" src="https://github.com/user-attachments/assets/ca4c8272-deb5-4f38-bc79-e151ed60dfdd" />
 
 # ProhoOps: Real Estate Inventory & Channel Partner Analytics Dashboard
 
